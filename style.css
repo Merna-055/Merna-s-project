@@ -1,0 +1,107 @@
+body {
+    background-image: url('img2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+    body, ul {
+        margin: auto;
+        padding: auto;
+      }
+      
+    .m2{
+      margin: auto;
+      padding: auto;
+    }  
+      .m1 {
+        background-color: #3606069d;
+      }
+      
+      .m1 ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: inline-flex;
+      }
+      
+      .m1 ul li {
+        margin: 0;
+        padding: 20px 20px;
+        
+      }
+      
+      .m1 ul li a {
+        display: block;
+        padding: 1em 6em;
+        color: white;
+        text-decoration: none;
+      }
+      
+      .m1 ul li a:hover {
+        background-color: #a38d8d;
+      }
+      
+      .m3{
+        width: auto;
+        padding: auto;
+        background-color: rgba(120, 50, 50, 0.773);
+        font-size: 20px;
+        text-align: center;
+        color: aliceblue;
+      }
+    
+      .i1{
+        width: 360px;
+        height: 500px;
+        border:5px solid rgb(248, 246, 241);
+      }
+      #about{
+        font-size: 60px;
+      }
+     #Services{
+      font-size: 45px;
+     }
+     #Resume{
+      font-size: 60px;
+    }
+    h3{
+      font-size: 25px;
+    }
+    #m4{
+      text-align: left;
+    }
+    
+    .n4 {
+      max-width: 50px;
+      margin: 0 auto;
+    }
+    
+    
+    .n4 label {
+      display: block;
+      font-weight: bold;
+    }
+    
+    
+    .n4 input[type="text"],
+    .n4 input[type="email"],
+    .n4 textarea {
+      width:70px 70px;
+      padding: auto;
+      margin-bottom: auto;
+      margin-right: 400px;
+    }
+    
+    
+    .n4 input[type="submit"] {
+      background-color: #7c2525;
+      color: white;
+      padding: 20px 20px;
+      border: none;
+      cursor: pointer;
+      
+    }
+    .b3{
+      color: #ebe5e5;
+      text-align: center;
+    }
